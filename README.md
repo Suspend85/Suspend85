@@ -1,4 +1,4 @@
-# Hi, my name is Dmitrii. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a> 
+# Hi, my name is Dmitrii. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">
 
 ## 🛠 I’m currently working with:
 <!-- <a name="working-now"></a> -->
