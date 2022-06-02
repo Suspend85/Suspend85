@@ -1,7 +1,6 @@
 <h1 align="center">Hi, my name is Dmitrii 👋</h1>
 
 ## 🛠 I’m currently working with:
-<!-- <a name="working-now"></a> -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -27,7 +26,8 @@
 
 ## 👾 Previously worked with:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Cisco](https://img.shields.io/badge/cisco-networking-blue)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ## 🔍 Where to find me 
 
