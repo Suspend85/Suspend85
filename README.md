@@ -42,7 +42,10 @@ In search of interesting projects for testing :)
 Click👉🏼
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9-%D0%BA%D1%80%D0%BE%D0%BF-183a641a6/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dmitrii_let)
-e-mail melomanko@gmail.com
+
+or e-mail: melomanko@gmail.com
+
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Suspend85.visitor-badge)
 
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Suspend85&left_color=green&right_color=red)](https://github.com/Suspend85)
 
