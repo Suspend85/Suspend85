@@ -45,7 +45,5 @@ Click👉🏼
 
 or e-mail: melomanko@gmail.com
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Suspend85.visitor-badge)
-
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Suspend85&left_color=green&right_color=red)](https://github.com/Suspend85)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Suspend85.visitor-badge&left_text=My%20Page%20Visitors)
 
